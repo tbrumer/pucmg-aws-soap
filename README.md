@@ -1,5 +1,5 @@
 # pucmg-aws-soap
-Atividade sobre SOAP da disciplina de APIs e Web Services da pós-graduação da PUC Minas
+Atividade sobre SOAP da disciplina de APIs e Web Services da pós-graduação Arquitetura de Software Distribuído da PUC Minas
 
 # Getting Started
 
