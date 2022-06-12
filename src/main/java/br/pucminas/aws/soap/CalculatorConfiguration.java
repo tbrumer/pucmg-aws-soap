@@ -16,7 +16,7 @@ public class CalculatorConfiguration {
     }
 
     @Bean
-    public CalculatorClient soapDemoClient(Jaxb2Marshaller marshaller) {
+    public CalculatorClient calculatorClient(Jaxb2Marshaller marshaller) {
         CalculatorClient client = new CalculatorClient();
         client.setDefaultUri("http://www.dneonline.com/calculator.asmx");
         client.setMarshaller(marshaller);
